@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++0x -g  -shared -Wl,-soname,libuse_kitti_lib.so -o libuse_kitti_lib.so CMakeFiles/use_kitti_lib.dir/opticalflow.cpp.o 
